@@ -94,7 +94,7 @@ async function getDocuments () {
 const charityConfig = {
     method: 'get',
     headers: {
-        apikey: "live-Al51CDc8tmqEV_MeqZfK1g-IFVsGqZ375FeUhFuf2eC3TQoodJwI2mBfrgUECT6tRUq7Wvl5xaGzR7mb"
+        apikey: "ENTER_KEY_HERE"
     },
 }
 
